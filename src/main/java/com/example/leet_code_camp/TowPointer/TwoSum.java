@@ -1,8 +1,4 @@
-package com.example.leet_code_camp.TowPointer.TwoSum;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package com.example.leet_code_camp.TowPointer;
 
 public class TwoSum {
     public int[] twoSum(int[] numbers, int target) {

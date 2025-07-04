@@ -1,4 +1,4 @@
-package com.example.leet_code_camp.Array.ContainDuplicate;
+package com.example.leet_code_camp.Array;
 
 import java.util.HashSet;
 

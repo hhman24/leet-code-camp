@@ -1,4 +1,4 @@
-package com.example.leet_code_camp.TowPointer.ValidPalindrome;
+package com.example.leet_code_camp.TowPointer;
 
 import java.util.Stack;
 

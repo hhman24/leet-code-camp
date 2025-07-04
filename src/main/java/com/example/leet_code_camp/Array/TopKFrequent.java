@@ -1,4 +1,4 @@
-package com.example.leet_code_camp.Array.TopKFrequent;
+package com.example.leet_code_camp.Array;
 
 import java.util.*;
 

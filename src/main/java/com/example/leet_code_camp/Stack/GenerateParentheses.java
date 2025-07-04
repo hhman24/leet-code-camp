@@ -1,4 +1,4 @@
-package com.example.leet_code_camp.Stack.GenerateParentheses;
+package com.example.leet_code_camp.Stack;
 
 import java.util.*;
 

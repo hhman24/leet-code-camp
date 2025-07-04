@@ -1,9 +1,7 @@
-package com.example.leet_code_camp.Stack.MinStack;
+package com.example.leet_code_camp.Stack;
 
 
-import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.Deque;
 import java.util.List;
 
 public class MinStack {
